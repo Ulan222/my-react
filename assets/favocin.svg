@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="50%" fill="#111111"/>
+  
+  <!-- Академическая шапочка -->
+  <path d="M 256 120 L 400 190 L 256 260 L 112 190 Z" fill="#e5ff00"/>
+  
+  <!-- Контур тега кода снизу -->
+  <path d="M 170 310 L 120 350 L 170 390 M 342 310 L 392 350 L 342 390" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <path d="M 270 300 L 242 400" stroke="#e5ff00" stroke-width="32" stroke-linecap="round" fill="none"/>
+</svg>
+
