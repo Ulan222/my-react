@@ -1,4 +1,6 @@
 {
+  "name": "my-react",
+  "homepage": "https://Ulan222.github.io/my-react",
   "name": "ljlj",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+        "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "firebase": "^12.18.0",
